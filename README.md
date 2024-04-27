@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="400" src="https://cdn.discordapp.com/attachments/865757068414025738/1231075945855717426/KinuHotChoco.png?ex=6635a3d1&is=66232ed1&hm=0892d920028c9a1404c60a38e4a24db2be712595175f59e03b9a8dee13a16f39&"  />
+<img align="left" height="400" src="https://raw.githubusercontent.com/TheEpicDoge/TheEpicDoge/main/Resources/KinuHotChoco.png"  />
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<img align="right" height="70" src="https://cdn.discordapp.com/attachments/865757068414025738/1231084310371631234/BeforeTheSunriseTitle.png?ex=6635ab9c&is=6623369c&hm=94328bdfb090ce0f548aad53b871c5153d28bbf66c005f0392dcdbfb3c2982c0&"  />
+<img align="right" height="70" src="https://raw.githubusercontent.com/TheEpicDoge/TheEpicDoge/main/Resources/BeforeTheSunriseTitle.png"  />
 
 ###
 
